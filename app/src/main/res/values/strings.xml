@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ZepZap</string>
+    <string name="game_rule">Type as many characters as you can in 30 seconds.
+    Only letters in correct positions count. </string>
 </resources>
