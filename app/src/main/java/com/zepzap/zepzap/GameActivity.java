@@ -67,12 +67,8 @@ public class GameActivity extends AppCompatActivity {
                 timer.start();
             }
         });
-        try {
-            getRandomZepetoImage();
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
 
+        sendJsonDataToServer();
     }
     public void parseString() {
         String givenString = givenStringText.getText().toString();
