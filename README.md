@@ -5,8 +5,8 @@ Winning title of each landmark can only be challenged by users in that vicinity 
 winning player's avatar (Zepeto) and username. Additionally, ZepZap allows users to store their travel itinerary images 
 around landmarks, also serving the function of a travel diary.
 
-This repository contains the client-side of this application. To see server-side, click on the link below:
-[ZepZap server](https://github.com/junctionxseoulzapzep/zepzap-server)
+This repository contains the client-side of this application. To see server-side, click on this link:
+[ZepZap Server](https://github.com/junctionxseoulzapzep/zepzap-server)
 
 ## Demo Prototype
 //proto-pie link goes here
